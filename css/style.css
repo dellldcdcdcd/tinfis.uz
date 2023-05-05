@@ -1,0 +1,368 @@
+.headerdiv1{
+    width: 100%;
+    height: 5vh;
+    background-color: #414141;
+    color: white;
+    display: inline-flex;
+
+}
+.img1{
+    width: 20px;
+}
+.div4{
+   width: 90%;
+   
+   margin: auto;
+   display: inline-flex;
+   justify-content: space-between;
+}
+.div6{
+    width: 40%;
+  
+    height: 5vh;
+    display: inline-flex;
+
+}
+.div7{
+    width: 40%;
+
+    height: 5vh;
+    display: inline-flex;
+}
+.child1{
+    width: 50%;
+    height: 5vh;
+    display: inline-flex;
+    align-items: center;
+}
+.child2{
+    width: 50%;
+    height: 5vh;
+    display: inline-flex;
+    align-items: center;
+}
+.img1{
+    width: 25px;
+}
+.divch1{
+    width: 33%;
+    height: 5vh;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.divch2{
+    width: 33%;
+    height: 5vh;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.divch3{
+    width: 34%;
+    height: 5vh;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+}
+nav{
+    width: 100%;
+    height: 20vh;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+.navdiv1{
+    width: 90%;
+    height: 10vh;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+} 
+.navdiv2{
+    width: 90%;
+    height: 10vh;
+
+    display: inline-flex;
+} 
+.navdiv11{
+    width: 15%;
+    height: 10vh;
+}
+.navdiv12{
+    width: 60%;
+    height: 10vh;
+    display: inline-flex;
+    align-items: center;
+}
+.navdiv13{
+    width: 15%;
+    height: 10vh;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+}
+.navdiv21{
+    width: 15%;
+    height: 10vh;
+    display: inline-flex;
+}
+.navdiv22{
+    width: 60%;
+    height: 10vh;
+    margin-left: 58px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navdiv11>img{
+    width: 90%;
+}
+.navdiv122{
+    width: 100%;
+    height: 57px;
+    background-color: white;
+    border-radius: 30px;
+    border: 1px solid black;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.navdiv122>input{
+    width: 90%;
+    height: 5vh;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+}
+.imgo{
+    width: 30px;
+}
+.btnm{
+    font-size: 20pt;
+    background-color: white;
+    border: none;
+}
+.rasm{
+    width: 45px;
+}
+.ras2{
+    width: 30px;
+}
+.ic1{
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+
+}
+.color{
+    color: black;
+}
+.gr{
+background:linear-gradient( 90deg,orange,rgb(204, 154, 62));
+    width: 100%;
+}
+.divlast{
+    width: 100%;
+    height: 60vh;
+    display: inline-flex;
+}
+.divlas1{
+    width: 25%;
+    height: 60vh;
+}
+.divlas2{
+    width: 75%;
+    height: 60vh;
+}
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background-color: white;
+    border-radius: 30px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #efae0c;
+    border-radius: 30px;
+}
+.grr{
+    width: 80%;
+    background:linear-gradient( 90deg,orange,rgb(204, 154, 62));
+    margin: auto;
+}
+.scn2{
+    width: 100%;
+    height: 40vh;
+    background-color: goldenrod;
+}
+.maf{
+    background-color: aquamarine;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.cor{
+    width: 100%;
+    background-color: bisque;
+}
+.card1{
+    width: 19%;
+    height: 10vh;
+    background-color: blue;
+}
+.te{
+    background-color: #efae0c;
+    display: inline-flex;
+    justify-content: center;
+    color: white;
+}
+.mar{
+    display: inline-flex;
+    justify-content: center;
+}
+.a{
+    color: #efae0c;
+}
+.marr{
+    display: inline-flex;
+    justify-content: center;
+    background-color: gray;
+}
+.win{
+    display: inline-flex;
+    justify-content: center;
+}
+.s1{
+    width: 100%;
+    height: 60vh;
+    background-color: #efae0c;
+}
+.cardiv1{
+    width: 100%;
+    height: 45vh;
+    background-image: url(https://tinfis.uz/_next/image?url=https%3A%2F%2Fback.tinfis.uz%2Fpublic%2Fuploads%2Fall%2F7dNwO5u2bNUBc4mkRX043Zps1oqdHNTSeZI1iMYS.jpg&w=1920&q=75);
+    background-size: cover
+
+}
+.cardiv2{
+    width: 100%;
+    height: 45vh;
+    background-image: url(https://back.tinfis.uz/public/uploads/all/2023/04/xPTfOqmwHaG5IOa3hsRLoQZUMzSrOuvemvEZHJXm.jpg);
+    background-size:  cover;
+
+}
+.cardiv3{
+    width: 100%;
+    height: 45vh;
+    background-image: url(https://back.tinfis.uz/public/uploads/all/2023/04/4puKSst5QMhMjuhrYtLhvikjFeBUEmMTa0H67oRE.jpg);
+    background-size:  cover;
+
+}
+.cardiv4{
+    width: 100%;
+    height: 45vh;
+    background-image: url(https://back.tinfis.uz/public/uploads/all/2023/04/KsBnrI0u6YLh69cVQahtyi7sMPPVPIevB0ckaG4l.jpg);
+    background-size:  cover;
+
+}
+.cardiv5{
+    width: 100%;
+    height: 45vh;
+    background-image: url(https://back.tinfis.uz/public/uploads/all/2023/04/mDz4TuDof8rwcm84AFXxdPq4zSM6RFF24lUtLia5.png);
+    background-size:  cover;
+
+}
+.div22{
+    width: 100%;
+}
+.rom{
+    width: 8%;
+    border: 3px solid #efae0c;
+    display: inline-flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+.btnb{
+    border-radius: 10px;
+    background-color: white;
+}
+.imgboss{
+    width: 84%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.arm{
+    width: 14%;
+    border-radius: 20px;
+    background-color: bisque;
+}
+.as{
+    width: 100%;
+    border-radius: 20px;
+}
+.text{
+    display: inline-flex;
+}
+.n{
+    margin-top: 20px;
+}
+.bu{
+    width: 50px;
+    height: 60px;
+    font-size: 20pt;
+
+}
+.bua{
+    width: 50px;
+    height: 60px;
+    border-radius: 15px 0px 0px 15px;
+    font-size: 20pt;
+}
+.buaa{
+    width: 50px;
+    height: 60px;
+    border-radius: 0px 15px 15px 0px;
+    font-size: 20pt;
+}
+.k{
+    width: 500px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: #efae0c;
+    border: none;
+}
+.imv{
+    width: 20px;
+}
+.ad{
+    width: 100%;
+    height: 10vh;
+    background-color: #dd580b;
+}
+.div1{
+    height: 60vh;
+}
+.div2{
+    height: 70vh;
+}
+.div3{
+    width: 200px;
+    background-color: #efae0c;
+    height: 200px;
+    border-radius: 50%;
+}
+.imft{
+    width: 20px;
+}
+.imto{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-left: -12px;
+}
+.q{
+    background-color: white;
+    height: 10vh;
+}
